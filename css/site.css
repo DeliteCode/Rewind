@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #1d5888;
-  --secondary-color: #ff993d;
+  --primary-color: #000407;
+  --secondary-color: #d60532;
   --dark-color: #292929;
   --white-color: #dff3e4;
 }
@@ -58,4 +58,13 @@ pre[class*="language-"] {
 
 main > .container {
   padding: 60px 15px 0;
+}
+
+.bluebold {
+  color: rgb(6, 88, 241);
+  font-weight: bold;
+}
+.orangebold {
+  color: rgb(223, 102, 4);
+  font-weight: bold;
 }
